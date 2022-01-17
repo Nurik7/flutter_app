@@ -1,4 +1,4 @@
-# own_app_fl
+# Flutter App
 
 A new Flutter project.
 
